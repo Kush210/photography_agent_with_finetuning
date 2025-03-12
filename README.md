@@ -1,4 +1,4 @@
-# photography_agent_with_finetuning
+# Photography Agent
 A photography agent that let you create a finetuned image generation models for your photography needs.
 
 Live app link: https://photo-agent-452314.web.app/
